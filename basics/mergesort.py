@@ -58,4 +58,4 @@ if __name__ == "__main__":
     debug_print(value_list=value_list)
 
     sorted_list = mergesort(value_list)
-    print(sorted_list)
+    print (mergesort(value_list))   
